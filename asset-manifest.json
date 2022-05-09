@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactdivi/static/css/main.fc5e2e45.css",
+    "main.js": "/reactdivi/static/js/main.d6f7f8c3.js",
+    "static/js/787.174193ad.chunk.js": "/reactdivi/static/js/787.174193ad.chunk.js",
+    "static/media/crfield.jpg": "/reactdivi/static/media/crfield.56bdc1f497eede509677.jpg",
+    "static/media/ball.png": "/reactdivi/static/media/ball.ceb097d8bc362a1c1c83.png",
+    "static/media/man.png": "/reactdivi/static/media/man.d40cf2471421947062da.png",
+    "static/media/field-ball.jpg": "/reactdivi/static/media/field-ball.8e88015e05b87ef5e50e.jpg",
+    "static/media/showcase.png": "/reactdivi/static/media/showcase.34e955aca93f523f4ff9.png",
+    "static/media/field.jpg": "/reactdivi/static/media/field.0ba5022af028ed65ea12.jpg",
+    "static/media/pic-3.png": "/reactdivi/static/media/pic-3.20587e947cdf81302861.png",
+    "static/media/pic-2.png": "/reactdivi/static/media/pic-2.36d329a71735282ffa42.png",
+    "static/media/pic-1.png": "/reactdivi/static/media/pic-1.9baa07b328be63353e14.png",
+    "index.html": "/reactdivi/index.html",
+    "main.fc5e2e45.css.map": "/reactdivi/static/css/main.fc5e2e45.css.map",
+    "main.d6f7f8c3.js.map": "/reactdivi/static/js/main.d6f7f8c3.js.map",
+    "787.174193ad.chunk.js.map": "/reactdivi/static/js/787.174193ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5e2e45.css",
+    "static/js/main.d6f7f8c3.js"
+  ]
+}
