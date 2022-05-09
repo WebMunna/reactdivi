@@ -17,11 +17,11 @@ const TopPlayers = () => {
         });
       })
 
-    let mainBBox = "pt-[30px] bg-[url('./img/field.jpg')] border-b-4 border-green-500 lg:bg-contain md:bg-cover sm:bg-cover lg:h-[750px] md:h-[1130px] sm:h-[1150px]"
+    let mainBBox = "pt-[30px] bg-[url('./img/field.jpg')] border-b-4 border-green-500 lg:bg-contain md:bg-cover sm:bg-cover sm2:bg-cover lg:h-[750px] md:h-[1130px] sm:h-[1150px]"
     let mainBox = 'w-[80%] mx-auto '
-    let pTitle = 'text-green-700 font-sans2 text-center sm:text-[35px] md:text-[40px] lg:text-[50px] py-[50px]'
+    let pTitle = 'text-green-700 font-sans2 text-center sm:text-[35px] sm2:text-[35px] md:text-[40px] lg:text-[50px] py-[50px]'
     let playerBoxes = 'lg:flex md:grid md:grid-cols-2 sm:grid sm:grid-cols-2 justify-between'
-    let playerBox = 'md:mx-auto mt-[30px] text-center flex-col lg:w-[250px] md:w-[230px] sm:w-[200px] mx-auto items-center justify-center'
+    let playerBox = 'md:mx-auto mt-[30px] text-center flex-col lg:w-[250px] md:w-[230px] sm:w-[150px] mx-auto items-center justify-center'
     let playerPic = 'flex w-[300px] border-4 border-green-500 items-center mx-auto rounded-full'
     let pName = 'font-sans2 text-[30px] text-green-700'
     let pTalk = 'font-bold text-green-700'

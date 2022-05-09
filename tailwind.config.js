@@ -8,7 +8,8 @@ module.exports = {
        mx: 'auto'
     },
     screens: {
-      'sm': '447px',
+      'sm2': '300px',
+      'sm': '500px',
       // => @media (min-width: 640px) { ... }
 
       'md': '768px',
