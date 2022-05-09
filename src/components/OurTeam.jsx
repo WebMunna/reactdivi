@@ -25,6 +25,7 @@ const OurTeam = () => {
    
     let ourTeam = " mx-auto "
     let counterAnimation = ' w-[80%] pt-[20px] mx-auto flex  justify-between'
+    let counterText = 'lg:text-[100px] md:text-[70px] sm:text-[40px] sm2:text-[30px]'
     let counterBox = 'flex flex-col items-center justify-center  rounded-full border-4 border-green-500 sm:w-[160px] sm2:w-[160px] md:w-[200px] lg:w-[300px] sm:h-[160px] sm2:h-[100px] md:h-[200px] lg:h-[300px] bg-green-200 sm:text-[50px] sm2:text-[15px] md:text-[70px] lg:text-[100px] font-sans2'
     let teamBox = 'w-[80%] mx-auto pt-[100px] md:flex md:flex-row lg:flex lg:flex-row sm:flex-col justify-between'
     let teamBBox= ' bg-gradient-to-b from-white'
@@ -56,19 +57,19 @@ const OurTeam = () => {
       
         <div className={counterAnimation}>
             <div data-aos='fade-right' className={counterBox}>
-              <CountUp  end={11} duration={5}/>
+              <CountUp className={counterText} end={11} duration={5}/>
               
               <div className={teamC}>team</div>
               
             </div>
              
             <div data-aos='fade-up' className={counterBox}>
-              <CountUp  end={215} duration={5}/>
+              <CountUp className={counterText}  end={215} duration={5}/>
               <div className={teamC}>Players</div>
             </div>
              
             <div data-aos='fade-left' className={counterBox}>
-              <CountUp  end={11} duration={5}/>
+              <CountUp className={counterText}  end={11} duration={5}/>
               <div className={teamC}>Prizes Won</div>
             </div>
              
