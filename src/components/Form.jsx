@@ -37,14 +37,14 @@ const Form = () => {
             </div>
             <div className={formInputs}>
                 <div className={nameEmail}>
-                    <div data-aos = 'fade-right' className={nameIn}>
+                    <div data-aos = 'zoom-in' className={nameIn}>
                         <input className={nameInput} type='text' placeholder='Name'/>
                     </div>
-                    <div data-aos = 'fade-left' className={emailIn}>
+                    <div data-aos = 'zoom-in' className={emailIn}>
                         <input className={emailInput} type='email' placeholder='Email'/>
                     </div>
                 </div>
-                    <div data-aos = 'fade-up' className={messageIn}>
+                    <div data-aos = 'zoom-in' className={messageIn}>
                         <input className={messageInput} type='text' placeholder='message'/>
                     </div>
 

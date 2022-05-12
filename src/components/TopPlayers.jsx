@@ -34,7 +34,7 @@ const TopPlayers = () => {
         </div>
 
         <div className={playerBoxes}>
-            <div data-aos='fade-right' className={playerBox}>
+            <div data-aos='zoom-in' className={playerBox}>
                  <img className={playerPic} src={pic1} alt='pic1'/>
                  <div className={pName}>
                      YVES
@@ -66,7 +66,7 @@ const TopPlayers = () => {
                      <FaFacebook/> <FaTwitter/> <FaGooglePlus/> <FaInstagram/>
                  </div>
             </div>
-            <div data-aos='fade-left' className={playerBox}>
+            <div data-aos='zoom-in' className={playerBox}>
                  <img className={playerPic} src={pic3} alt='pic1'/>
                  <div className={pName}>
                      DAVE

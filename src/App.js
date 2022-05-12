@@ -8,7 +8,7 @@ import TopPlayers from './components/TopPlayers';
 
 function App() {
   return (
-    <div className="w-full box-border">
+    <div className="">
        <Header/>
        <ShowCase/>
        <OurTeam/>

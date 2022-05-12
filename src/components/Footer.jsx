@@ -26,7 +26,7 @@ const Footer = () => {
 
   return (
     <div id='info' className={mainBBox}>
-        <div data-aos='fade-right' className={mainBox}>
+        <div data-aos='zoom-in' className={mainBox}>
         <div className={address}>
            <FaMapMarkerAlt size='40px'/>
            <h1 className={addTitle}>ADDRESS</h1>
@@ -46,7 +46,7 @@ const Footer = () => {
             </div>
         </div>
 
-        <div data-aos='fade-left' className={footTalk}>
+        <div data-aos='zoom-in' className={footTalk}>
         Reach out to us to become a part of our baseball 
         team. We practice four 
         times a week and we’d love to have you as a 

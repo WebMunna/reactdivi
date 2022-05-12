@@ -21,7 +21,7 @@ const Header = () => {
 
   console.log(dropsMenu)
 
-  let mainBBox = " absolute sticky top-0 w-full border-b-4 border-green-500 z-40 bg-white text-slate-600  h-20" 
+  let mainBBox = " absolute sticky top-0 w-full border-b-4 border-green-500 z-40 bg-white text-slate-600  h-20 " 
   let menuBox = "lg:container md:container sm:w-[80%] sm2:w-[80%]  mx-auto flex justify-between h-20"
   let menus = "lg:flex md:flex sm:hidden sm2:hidden  gap-4 font-semibold items-center"
   let dropMenu = 'lg:hidden md:hidden flex items-center justify-center'
