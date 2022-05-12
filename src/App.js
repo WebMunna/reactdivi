@@ -11,9 +11,9 @@ function App() {
     <div className="">
        <Header/>
        <ShowCase/>
-       <OurTeam/>
-       {/* <TopPlayers/>
-       <Form/> */}
+       {/* <OurTeam/> */}
+       <TopPlayers/>
+       {/* <Form/> */}
        <Footer/>
        <Footter/>
     </div>
